@@ -7,7 +7,7 @@ The code for CS427 Android app.
 <br/>
 | Name          | NetID         | GitHub ID   | Role          | Experience    |
 | ------------- | ------------- | ------------| ------------- | ------------- |
-|               |               |             |               |               |            
+| Yiao Ding     | yiaod2        | yiaod2      | Developer     | Java          |            
 |               |               |             |               |               |
 |               |               |             |               |               |
 |               |               |             |               |               |
